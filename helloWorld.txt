@@ -1,3 +1,9 @@
 NOICE
 
+<<<<<<< HEAD
 LMAO
+=======
+LMAO
+
+Here we go again
+>>>>>>> 2116594
